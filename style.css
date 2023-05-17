@@ -1,0 +1,35 @@
+ul#menu li{
+    display : inline;
+    font-family: Arial, Helvetica, sans-serif ;
+   
+   
+}
+
+h1, h2, h3, h4{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: whitesmoke
+}
+
+div{
+    background-color: rgb(11, 8, 168);
+    width:auto;
+    height: 50px
+    
+    
+}
+
+a{
+
+    color: white;
+    padding: 5px
+}
+
+img{
+    height: 300px:
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid #fff
+}
