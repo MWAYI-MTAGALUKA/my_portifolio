@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My portifolio</title>
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+         const check = () => {
+                const progressBar = document.querySelector('.progress-bar')
+                progressBar.setAttribute('id','start-animation')
+            }
+                
+            
+        </script>  
+    </head> 
+    <body>
+   
+     <div id="navbar" align="center">
+    <ul id="menu" >
+        <br>
+        <li><a href="my-portifolio.html">HOME</a></li>
+        <li><a href="contact.html">CONTACT ME</a></li>
+        <li><a href="projects.html">PROJECTS</a></li>
+        <li><a href="skills.html">SKILLS</a></li>
+    </ul>
+    </div>
+    
+    <h4>Click the button to check progress:</h4>
+    
+    <button onclick="check()">Check</button>
+    <br><br><br><br><br><br>
+
+    <div  class="html-bar">
+        <h4>HTML</h4>qs#/k
+        <div class="progress-bar" style="width: 80%";>
+            <span data-width="80">80%</span>
+        </div>
+    </div>
+    <br><br><br><br><br><br>
+
+    <div class="css-bar">
+        <h4>CSS</h4>
+        <div class="progress-bar" style="width: 60%";   >
+            <span data-width="60%">60%</span>
+        </div>
+    </div>
+    <br><br><br><br><br><br>
+
+    <div  class="javascript-bar" style="width: 40%"; >
+        <h4>JAVASCRIPT</h4>
+        <div class="progress-bar">
+            <span data-width="40%">40%</span>
+        </div>
+    
+    <br><br><br><br><br><br>
+    </div>
+    </body>
+</html>    
