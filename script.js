@@ -3,6 +3,7 @@
             var images =[];
             var time = 3000;
             
+            
             images[0]='first.png';
             images[1]='second.png';
             images[2]='third.png';

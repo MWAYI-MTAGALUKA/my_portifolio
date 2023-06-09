@@ -16,10 +16,10 @@
     <div id="navbar">
         <ul id="menu">
             <br>
-            <li><a href="my-portifolio.html">HOME</a></li>
-            <li><a href="contact.html">CONTACT ME</a></li>
-            <li><a href="projects.html">PROJECTS</a></li>
-            <li><a href="skills.html">SKILLS</a></li>
+            <li><a href="my-portifolio.php">HOME</a></li>
+            <li><a href="contact.php">CONTACT ME</a></li>
+            <li><a href="projects.php">PROJECTS</a></li>
+            <li><a href="skills.php">SKILLS</a></li>
         </div>
        
         <h1>My featured Projects</h1>
